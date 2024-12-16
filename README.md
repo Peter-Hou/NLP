@@ -29,13 +29,6 @@ I'm an aspiring data scientist, passionate about exploring the intricacies of la
 - `/data` - Sample datasets used for training and testing.
 - `/docs` - Documentation and learning resources.
 
-## To-Dos 📋
-
-- [ ] Complete PyTorch tutorials.
-- [ ] Experiment with basic NLP models (e.g., sentiment analysis).
-- [ ] Explore advanced NLP topics (e.g., transformers, BERT).
-- [ ] Publish weekly progress updates.
-
 ## Resources and References 📚
 
 - [PyTorch Official Documentation](https://pytorch.org/docs/stable/index.html)
